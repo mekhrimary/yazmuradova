@@ -1,2 +1,2 @@
-# yazmuradova
+# yaz
 architect
